@@ -1,6 +1,6 @@
 ## Prerequisites
 <ul>
-<li>After cloning this repository, go to the root folder, run the following command/s,
+<li>First run the following command/s,
 <pre>
     composer install
     composer update</pre>
@@ -12,9 +12,3 @@
 
 </ul>
 
-## Working Demo
-You can see the demo of the project <a href="http://demos.justlaravel.com/vue-js-crud-laravel/">here</a>
-
-## Reference Post
-<a href="https://justlaravel.com/vue-js-crud-laravel/">https://justlaravel.com/vue-js-crud-laravel/
-</a>
